@@ -2,6 +2,11 @@
 
 Planks dock extra themes collection. here are two themes as now, but we always welcome new themes.
 
+#### Installation
+```
+git clone https://github.com/Ali-Aref/Plank-Themes.git ~/.local/share/plank/
+```
+
 <br />
 
 ##### Before
