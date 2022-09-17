@@ -1,6 +1,6 @@
 ## Plank Themes
 
-Planks dock extra themes collection. here are two themes as now, but we always welcome new themes.
+[Planks](https://launchpad.net/plank) dock extra themes collection. here are two themes as now, but we always welcome new themes.
 
 #### Installation
 ```
